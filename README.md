@@ -79,7 +79,6 @@ This project leverages **deep learning** and **parallel computing (CPU & GPU)** 
 - **Saiyam Doshi**
 
 ---
-
 ## Future Work
 - Mixed-precision training (FP16) for faster GPU performance.  
 - Model quantization for lightweight deployment.  
